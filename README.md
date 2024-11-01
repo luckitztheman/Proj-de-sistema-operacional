@@ -15,16 +15,17 @@ IDE de desenvolvimento Java (opcional) ou linha de comando
 git clone https://github.com/seuusuario/simulador-substituicao-paginas.git
 cd simulador-substituicao-paginas
 
-#### 2. Compile o projeto: ##### No terminal, navegue até a pasta do projeto e execute:
+#### 2. Compile o projeto: No terminal, navegue até a pasta do projeto e execute:
 javac SimuladorDeSubstituicaoDePaginas.java
 
-Execute o programa:
+#### 3. Execute o programa:
 java SimuladorDeSubstituicaoDePaginas
 
-Entrada de Dados: No código principal, há uma sequência de páginas já configurada para teste (int[] paginas = {1, 2, 3, 2, 1, 4, 5, 1, 2, 3, 4, 5};) e um número de quadros (int numeroQuadros = 3;). 
-Para modificar esses valores, altere essas variáveis diretamente no código e recompile.
+#### 4. Entrada de Dados: 
+No código principal, há uma sequência de páginas já configurada para teste (int[] paginas = {1, 2, 3, 2, 1, 4, 5, 1, 2, 3, 4, 5};) e um número de quadros (int numeroQuadros = 3;). Para modificar esses valores, altere essas variáveis diretamente no código e recompile.
 
-Saída: O programa exibe no terminal o número de faltas de página para cada algoritmo, em um formato como este:
+#### 5. Saída: 
+O programa exibe no terminal o número de faltas de página para cada algoritmo, em um formato como este:
 Método FIFO - X faltas de página
 Método LRU - X faltas de página
 Método Clock - X faltas de página
