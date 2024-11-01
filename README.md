@@ -12,7 +12,7 @@ IDE de desenvolvimento Java (opcional) ou linha de comando
 ### Como Executar o Projeto
 
 #### 1. Clone o repositório:
-git clone https://github.com/seuusuario/simulador-substituicao-paginas.git
+git clone https://github.com/seuusuario/simulador-substituicao-paginas.git <br>
 cd simulador-substituicao-paginas
 
 #### 2. Compile o projeto: No terminal, navegue até a pasta do projeto e execute:
