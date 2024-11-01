@@ -11,11 +11,11 @@ IDE de desenvolvimento Java (opcional) ou linha de comando
 
 ### Como Executar o Projeto
 
-Clone o repositório:
+#### 1. Clone o repositório:
 git clone https://github.com/seuusuario/simulador-substituicao-paginas.git
 cd simulador-substituicao-paginas
 
-Compile o projeto: No terminal, navegue até a pasta do projeto e execute:
+#### 2. Compile o projeto: ##### No terminal, navegue até a pasta do projeto e execute:
 javac SimuladorDeSubstituicaoDePaginas.java
 
 Execute o programa:
