@@ -2,7 +2,7 @@
 ## Simulador de Algoritmos de Substituição de Páginas
 
 
-Descrição
+####Descrição
 Este projeto implementa um simulador de substituição de páginas, que permite comparar o desempenho de diferentes algoritmos de gerenciamento de memória virtual. Os algoritmos incluídos são FIFO (First In, First Out), LRU (Least Recently Used), Clock (Segunda Chance) e Ótimo. O simulador calcula as faltas de página para cada algoritmo dado um conjunto de páginas e um número de quadros de memória, ajudando a entender como esses algoritmos se comportam em diferentes cenários.
 
 Pré-requisitos
